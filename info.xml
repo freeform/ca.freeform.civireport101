@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="ca.freeform.civireport101" type="module">
+  <file>civireport101</file>
+  <name>CiviReport 101</name>
+  <description>A group of sample reports for the CiviReport 101 CiviCON presentation.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Lola Slade</author>
+    <email>lola@freeform.ca</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/freeform/ca.freeform.civireport101</url>
+    <url desc="Documentation">https://github.com/freeform/ca.freeform.civireport101</url>
+    <url desc="Support">https://github.com/freeform/ca.freeform.civireport101/issues</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2015-04-21</releaseDate>
+  <version>1.0</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>4.5</ver>
+  </compatibility>
+  <comments>A group of sample reports for the CiviReport 101 CiviCON presentation.</comments>
+  <civix>
+    <namespace>CRM/Civireport101</namespace>
+  </civix>
+</extension>
